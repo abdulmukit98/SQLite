@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531813218601",
+    "firebase_url": "https://example-bf267-default-rtdb.firebaseio.com",
+    "project_id": "example-bf267",
+    "storage_bucket": "example-bf267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531813218601:android:2e415917a3ea9a132f9f38",
+        "android_client_info": {
+          "package_name": "edu.cseju.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531813218601-3nt0v07n41g91car9ck95dhnogf3gab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepn7BfE6j5jPt8mw7XfTAK6RHam6rdEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531813218601-3nt0v07n41g91car9ck95dhnogf3gab0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
